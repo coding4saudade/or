@@ -2,7 +2,7 @@
 
 Extract-Transform-Load project that pulls National Park data from a CSV using Python Pandas and loads the data into Postgres (SQL Server) using Psycopg2 and SQLalchemy modules
 
-Queries screenshots>
+## Query Examples
 
 
 Query 1: Group the national parks by state.
